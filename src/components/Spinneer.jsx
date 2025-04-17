@@ -1,4 +1,4 @@
-import ClipLoader from 'react-spinners/clipLoader';
+import ClipLoader from 'react-spinners/ClipLoader';
 
 function Spinneer({ loading }){
      const override = {
