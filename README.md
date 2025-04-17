@@ -2,7 +2,7 @@
 
 Welcome to **React Jobs API**, a sleek and modern job listing application built with React and Vite! 🌟 Explore a curated collection of job opportunities, dive into detailed job descriptions, and manage listings with ease. Whether you're a job seeker or an employer, this app delivers a seamless and responsive experience powered by a static JSON API.
 
-![React Jobs API Preview](https://via.placeholder.com/800x400.png?text=React+Jobs+API+Preview)
+![React Jobs API Preview](https://react-jobs-api.vercel.app/)
 
 ## Table of Contents 📑
 
